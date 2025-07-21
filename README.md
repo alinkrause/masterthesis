@@ -7,6 +7,4 @@ Ziel dieser Forschungsarbeit war es, einen Generator in Blender zu erstellen, de
 
 Blender hat seit der Version 4.3 bereits eine große Anzahl an Updates für Geometry Nodes erhalten, unter anderen automatisierter Import von externen Daten. Im Rahmen der begrenzten Zeit und Ressourcen der Masterthesis ist dieses Projekt eher als Proof-of-Concept zu sehen.
 
-
-
-
+[Plakat zur Masterarbeit](https://github.com/user-attachments/files/21352723/250125_Masterplakat.pdf)
