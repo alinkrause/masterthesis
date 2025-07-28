@@ -6,8 +6,13 @@ Ziel dieser Forschungsarbeit war es, einen Generator in Blender zu erstellen, de
 Blender hat seit der Version 4.3 bereits eine große Anzahl an Updates für Geometry Nodes erhalten, neben QoL und besseres UI der automatisierte Import von externen Daten. Im Rahmen der begrenzten Zeit und Ressourcen der Masterthesis ist dieses Projekt als Proof-of-Concept zu sehen.
 
 Alle Inhalts- und Bildrechte sowie Quellen von fremden Code sind im Anhang angegeben. Die Nutzung erfolgt im Rahmen der Forschungsarbeit und Wissensvermittlung. Die verwendete Blender-Version war 4.3 sowie das Blender-GIS Addon. Ein grundlegender Teil der Arbeit basiert auf dem Generator Buildify von Pavel Olivia.
+
 https://blender-addons.org/buildify/
+
+
 https://www.blender.org/download/releases/
+
+
 https://github.com/domlysz/BlenderGIS
 #
 <img width="2503" height="3539" alt="250125_Masterplakat" src="https://github.com/user-attachments/assets/2a3a2a11-0442-460a-b8bb-e5278d5b88df" />
